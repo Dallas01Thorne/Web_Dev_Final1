@@ -1,4 +1,4 @@
-/* scratch.css - custom styles ONLY for scratch.html */
+
 
 html, body {
   margin: 0;
@@ -8,7 +8,7 @@ html, body {
   color: #e5e7eb;
 }
 
-/* Simple centered layout */
+
 
 .page-shell {
   min-height: 100vh;
@@ -22,7 +22,7 @@ html, body {
   padding: 80px 16px 40px;
 }
 
-/* Basic nav */
+
 
 .page-nav {
   background: #030712;
@@ -43,7 +43,7 @@ html, body {
   color: #f9fafb;
 }
 
-/* Content blocks */
+
 
 .block {
   border-radius: 16px;
@@ -57,7 +57,6 @@ html, body {
   margin-top: 0;
 }
 
-/* Divs for positioning demo */
 
 .layout-row {
   display: flex;
@@ -69,13 +68,13 @@ html, body {
   flex: 1 1 260px;
 }
 
-/* Anchor target */
+
 
 #top-of-scratch {
   scroll-margin-top: 70px;
 }
 
-/* Simple footer */
+
 
 .page-footer {
   border-top: 1px solid #1f2937;
